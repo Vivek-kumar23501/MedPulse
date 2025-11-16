@@ -162,6 +162,7 @@ class ExpertNavbar extends Component {
                 <img src="/who.jpeg" alt="WHO" />
                 <img src="Ayushman.png" alt="Ayushman Bharat" />
                 <img src="/minstry.png" alt="Ministry Health" />
+                <img src="/Sihlogo.png" alt="SIH" />
               </Col>
 
               <Col xs="12" md="6" className="d-flex justify-content-center justify-content-md-end mt-2 mt-md-0">
